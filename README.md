@@ -6,7 +6,7 @@
 | **Fechas** | Julio 23-25, 2025 |
 | **Instructor** | **Michael Sánchez** — michaelsanchez2014@gmail.com |
 
-Nuevo Nombre de GitHub repo: mas-astro/inspirastem2025-data-analisis<br>
+Nuevo Nombre de GitHub repo: **mas-astro/inspirastem2025-data-analisis**<br>
 Anteriormente: michaelsanchez2025/inspirastem2025-data-analisis
 
 ---
